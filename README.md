@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A passionate automation and software developer from Vancouver, Canada.</h3>
+<h3 align="center">A passionate automation enthusiast and software developer from Vancouver, Canada.</h3>
+
+- 🔭 I’m currently working on [FuelEasy](https://github.com/ethan-dsouza-dev/FuelEasy)
+
+- 🌱 I’m currently learning **C++, React**
+
+- 📫 How to reach me **edsouz01@student.ubc.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ethan dsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan dsouza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
