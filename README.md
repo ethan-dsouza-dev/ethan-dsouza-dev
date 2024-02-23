@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nature's Choice](https://github.com/ethan-dsouza-dev/nature-choice)
 
-- 🌱 I’m currently learning **C++, React**
+- 🌱 I’m currently learning **Operating Systems, C++, React**
 
 - 📫 How to reach me **edsouz01@student.ubc.ca**
 
