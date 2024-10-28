@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate automation enthusiast and software developer from Vancouver, Canada.</h3>
 
-- 🔭 I’m currently working on [Nature's Choice](https://github.com/ethan-dsouza-dev/nature-choice)
+- 🔭 I’m currently working on [Quantico](https://github.com/ethan-dsouza-dev/Quantico)
 
 - 🌱 I’m currently learning **Operating Systems, C++, React**
 
