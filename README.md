@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate automation enthusiast and software developer from Vancouver, Canada.</h3>
 
-- 🔭 I’m currently working on [Spawn]([https://github.com/ethan-dsouza-dev/Quantico](https://github.com/Daggerpov/Spawn-App-Android-Kotlin))
+- 🔭 I’m currently working on [Blindspot]([https://github.com/ethan-dsouza-dev/Quantico](https://github.com/Daggerpov/Spawn-App-Android-Kotlin))
 
-- 🌱 I’m currently learning **Android, Jetpack Compose**
+- 🌱 I’m currently learning **Springboot**
 
 - 📫 How to reach me **edsouz01@student.ubc.ca**
 
